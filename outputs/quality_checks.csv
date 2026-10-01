@@ -1,0 +1,12 @@
+check_name,severity,observed,status
+spend_key_uniqueness,blocker,0,PASS
+dimension_key_uniqueness,blocker,0,PASS
+negative_spend,blocker,0,PASS
+unknown_spend_campaign,blocker,0,PASS
+unmatched_member_campaign,warning,1,WARN
+negative_revenue,warning,1,WARN
+duplicate_ingestions,warning,12,WARN
+missing_member_spend_key,warning,1,WARN
+spend_reconciliation,blocker,0.0,PASS
+member_reconciliation,blocker,0,PASS
+freshness_days,blocker,1.0,PASS

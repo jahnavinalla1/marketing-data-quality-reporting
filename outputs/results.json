@@ -1,0 +1,1164 @@
+{
+  "title": "Trusted Marketing Data & Weekly Reporting",
+  "metrics": {
+    "Duplicate replays": 12,
+    "Quarantined members": 2,
+    "Blocking failures": 0,
+    "Naive join inflation": "15.3\u00d7"
+  },
+  "tables": [
+    {
+      "name": "Weekly acquisition report",
+      "rows": [
+        {
+          "week": "2026-35",
+          "channel": "Affiliate",
+          "spend_usd": 2904.33,
+          "new_members": 88,
+          "net_revenue_usd": 12038.400000000001,
+          "cac_usd": 33.00375
+        },
+        {
+          "week": "2026-35",
+          "channel": "Display",
+          "spend_usd": 2558.0699999999997,
+          "new_members": 92,
+          "net_revenue_usd": 12585.6,
+          "cac_usd": 27.80510869565217
+        },
+        {
+          "week": "2026-35",
+          "channel": "Search",
+          "spend_usd": 3306.74,
+          "new_members": 81,
+          "net_revenue_usd": 11080.800000000001,
+          "cac_usd": 40.82395061728395
+        },
+        {
+          "week": "2026-35",
+          "channel": "Social",
+          "spend_usd": 2810.64,
+          "new_members": 105,
+          "net_revenue_usd": 14364.000000000002,
+          "cac_usd": 26.767999999999997
+        },
+        {
+          "week": "2026-36",
+          "channel": "Affiliate",
+          "spend_usd": 3352.93,
+          "new_members": 116,
+          "net_revenue_usd": 15868.800000000001,
+          "cac_usd": 28.90456896551724
+        },
+        {
+          "week": "2026-36",
+          "channel": "Display",
+          "spend_usd": 3168.16,
+          "new_members": 89,
+          "net_revenue_usd": 12175.2,
+          "cac_usd": 35.59730337078651
+        },
+        {
+          "week": "2026-36",
+          "channel": "Search",
+          "spend_usd": 2824.57,
+          "new_members": 115,
+          "net_revenue_usd": 15732.000000000002,
+          "cac_usd": 24.561478260869567
+        },
+        {
+          "week": "2026-36",
+          "channel": "Social",
+          "spend_usd": 2929.53,
+          "new_members": 112,
+          "net_revenue_usd": 15321.600000000002,
+          "cac_usd": 26.15651785714286
+        },
+        {
+          "week": "2026-37",
+          "channel": "Affiliate",
+          "spend_usd": 3911.39,
+          "new_members": 107,
+          "net_revenue_usd": 14637.6,
+          "cac_usd": 36.55504672897196
+        },
+        {
+          "week": "2026-37",
+          "channel": "Display",
+          "spend_usd": 3136.96,
+          "new_members": 113,
+          "net_revenue_usd": 15458.400000000001,
+          "cac_usd": 27.76070796460177
+        },
+        {
+          "week": "2026-37",
+          "channel": "Search",
+          "spend_usd": 2907.31,
+          "new_members": 118,
+          "net_revenue_usd": 16142.400000000001,
+          "cac_usd": 24.63822033898305
+        },
+        {
+          "week": "2026-37",
+          "channel": "Social",
+          "spend_usd": 3295.21,
+          "new_members": 100,
+          "net_revenue_usd": 13680.000000000002,
+          "cac_usd": 32.9521
+        },
+        {
+          "week": "2026-38",
+          "channel": "Affiliate",
+          "spend_usd": 3248.3,
+          "new_members": 101,
+          "net_revenue_usd": 13816.800000000001,
+          "cac_usd": 32.161386138613864
+        },
+        {
+          "week": "2026-38",
+          "channel": "Display",
+          "spend_usd": 3134.36,
+          "new_members": 83,
+          "net_revenue_usd": 11354.400000000001,
+          "cac_usd": 37.763373493975905
+        },
+        {
+          "week": "2026-38",
+          "channel": "Search",
+          "spend_usd": 3227.08,
+          "new_members": 96,
+          "net_revenue_usd": 13132.800000000001,
+          "cac_usd": 33.61541666666667
+        },
+        {
+          "week": "2026-38",
+          "channel": "Social",
+          "spend_usd": 3505.91,
+          "new_members": 132,
+          "net_revenue_usd": 18057.600000000002,
+          "cac_usd": 26.55992424242424
+        },
+        {
+          "week": "2026-39",
+          "channel": "Affiliate",
+          "spend_usd": 647.31,
+          "new_members": 15,
+          "net_revenue_usd": 2052.0,
+          "cac_usd": 43.153999999999996
+        },
+        {
+          "week": "2026-39",
+          "channel": "Display",
+          "spend_usd": 269.87,
+          "new_members": 9,
+          "net_revenue_usd": 1231.2,
+          "cac_usd": 29.985555555555557
+        },
+        {
+          "week": "2026-39",
+          "channel": "Search",
+          "spend_usd": 429.87,
+          "new_members": 15,
+          "net_revenue_usd": 2052.0,
+          "cac_usd": 28.658
+        },
+        {
+          "week": "2026-39",
+          "channel": "Social",
+          "spend_usd": 270.15,
+          "new_members": 14,
+          "net_revenue_usd": 1915.2000000000003,
+          "cac_usd": 19.29642857142857
+        }
+      ],
+      "category": "channel",
+      "value": "cac_usd",
+      "unit": ""
+    },
+    {
+      "name": "Data quality checks",
+      "rows": [
+        {
+          "check_name": "spend_key_uniqueness",
+          "severity": "blocker",
+          "observed": 0,
+          "status": "PASS"
+        },
+        {
+          "check_name": "dimension_key_uniqueness",
+          "severity": "blocker",
+          "observed": 0,
+          "status": "PASS"
+        },
+        {
+          "check_name": "negative_spend",
+          "severity": "blocker",
+          "observed": 0,
+          "status": "PASS"
+        },
+        {
+          "check_name": "unknown_spend_campaign",
+          "severity": "blocker",
+          "observed": 0,
+          "status": "PASS"
+        },
+        {
+          "check_name": "unmatched_member_campaign",
+          "severity": "warning",
+          "observed": 1,
+          "status": "WARN"
+        },
+        {
+          "check_name": "negative_revenue",
+          "severity": "warning",
+          "observed": 1,
+          "status": "WARN"
+        },
+        {
+          "check_name": "duplicate_ingestions",
+          "severity": "warning",
+          "observed": 12,
+          "status": "WARN"
+        },
+        {
+          "check_name": "missing_member_spend_key",
+          "severity": "warning",
+          "observed": 1,
+          "status": "WARN"
+        },
+        {
+          "check_name": "spend_reconciliation",
+          "severity": "blocker",
+          "observed": 0.0,
+          "status": "PASS"
+        },
+        {
+          "check_name": "member_reconciliation",
+          "severity": "blocker",
+          "observed": 0,
+          "status": "PASS"
+        },
+        {
+          "check_name": "freshness_days",
+          "severity": "blocker",
+          "observed": 1.0,
+          "status": "PASS"
+        }
+      ],
+      "category": "check_name",
+      "value": "observed",
+      "unit": ""
+    },
+    {
+      "name": "Daily reporting mart",
+      "rows": [
+        {
+          "date": "2026-09-01",
+          "campaign_id": "C0",
+          "channel": "Search",
+          "spend_usd": 636.88,
+          "new_members": 16,
+          "net_revenue_usd": 2188.8
+        },
+        {
+          "date": "2026-09-01",
+          "campaign_id": "C1",
+          "channel": "Social",
+          "spend_usd": 640.27,
+          "new_members": 13,
+          "net_revenue_usd": 1778.4
+        },
+        {
+          "date": "2026-09-01",
+          "campaign_id": "C2",
+          "channel": "Display",
+          "spend_usd": 304.28,
+          "new_members": 12,
+          "net_revenue_usd": 1641.6000000000001
+        },
+        {
+          "date": "2026-09-01",
+          "campaign_id": "C3",
+          "channel": "Affiliate",
+          "spend_usd": 331.84,
+          "new_members": 21,
+          "net_revenue_usd": 2872.8
+        },
+        {
+          "date": "2026-09-02",
+          "campaign_id": "C0",
+          "channel": "Search",
+          "spend_usd": 670.14,
+          "new_members": 13,
+          "net_revenue_usd": 1778.4
+        },
+        {
+          "date": "2026-09-02",
+          "campaign_id": "C1",
+          "channel": "Social",
+          "spend_usd": 304.05,
+          "new_members": 20,
+          "net_revenue_usd": 2736.0
+        },
+        {
+          "date": "2026-09-02",
+          "campaign_id": "C2",
+          "channel": "Display",
+          "spend_usd": 455.52,
+          "new_members": 22,
+          "net_revenue_usd": 3009.6000000000004
+        },
+        {
+          "date": "2026-09-02",
+          "campaign_id": "C3",
+          "channel": "Affiliate",
+          "spend_usd": 375.03,
+          "new_members": 10,
+          "net_revenue_usd": 1368.0
+        },
+        {
+          "date": "2026-09-03",
+          "campaign_id": "C0",
+          "channel": "Search",
+          "spend_usd": 391.01,
+          "new_members": 16,
+          "net_revenue_usd": 2188.8
+        },
+        {
+          "date": "2026-09-03",
+          "campaign_id": "C1",
+          "channel": "Social",
+          "spend_usd": 531.08,
+          "new_members": 19,
+          "net_revenue_usd": 2599.2000000000003
+        },
+        {
+          "date": "2026-09-03",
+          "campaign_id": "C2",
+          "channel": "Display",
+          "spend_usd": 481.41,
+          "new_members": 10,
+          "net_revenue_usd": 1368.0
+        },
+        {
+          "date": "2026-09-03",
+          "campaign_id": "C3",
+          "channel": "Affiliate",
+          "spend_usd": 675.83,
+          "new_members": 11,
+          "net_revenue_usd": 1504.8000000000002
+        },
+        {
+          "date": "2026-09-04",
+          "campaign_id": "C0",
+          "channel": "Search",
+          "spend_usd": 447.29,
+          "new_members": 17,
+          "net_revenue_usd": 2325.6000000000004
+        },
+        {
+          "date": "2026-09-04",
+          "campaign_id": "C1",
+          "channel": "Social",
+          "spend_usd": 439.01,
+          "new_members": 12,
+          "net_revenue_usd": 1641.6000000000001
+        },
+        {
+          "date": "2026-09-04",
+          "campaign_id": "C2",
+          "channel": "Display",
+          "spend_usd": 364.87,
+          "new_members": 18,
+          "net_revenue_usd": 2462.4
+        },
+        {
+          "date": "2026-09-04",
+          "campaign_id": "C3",
+          "channel": "Affiliate",
+          "spend_usd": 642.84,
+          "new_members": 8,
+          "net_revenue_usd": 1094.4
+        },
+        {
+          "date": "2026-09-05",
+          "campaign_id": "C0",
+          "channel": "Search",
+          "spend_usd": 497.99,
+          "new_members": 11,
+          "net_revenue_usd": 1504.8000000000002
+        },
+        {
+          "date": "2026-09-05",
+          "campaign_id": "C1",
+          "channel": "Social",
+          "spend_usd": 637.03,
+          "new_members": 22,
+          "net_revenue_usd": 3009.6000000000004
+        },
+        {
+          "date": "2026-09-05",
+          "campaign_id": "C2",
+          "channel": "Display",
+          "spend_usd": 321.81,
+          "new_members": 8,
+          "net_revenue_usd": 1094.4
+        },
+        {
+          "date": "2026-09-05",
+          "campaign_id": "C3",
+          "channel": "Affiliate",
+          "spend_usd": 581.32,
+          "new_members": 19,
+          "net_revenue_usd": 2599.2000000000003
+        },
+        {
+          "date": "2026-09-06",
+          "campaign_id": "C0",
+          "channel": "Search",
+          "spend_usd": 663.43,
+          "new_members": 8,
+          "net_revenue_usd": 1094.4
+        },
+        {
+          "date": "2026-09-06",
+          "campaign_id": "C1",
+          "channel": "Social",
+          "spend_usd": 259.2,
+          "new_members": 19,
+          "net_revenue_usd": 2599.2000000000003
+        },
+        {
+          "date": "2026-09-06",
+          "campaign_id": "C2",
+          "channel": "Display",
+          "spend_usd": 630.18,
+          "new_members": 22,
+          "net_revenue_usd": 3009.6000000000004
+        },
+        {
+          "date": "2026-09-06",
+          "campaign_id": "C3",
+          "channel": "Affiliate",
+          "spend_usd": 297.47,
+          "new_members": 19,
+          "net_revenue_usd": 2599.2000000000003
+        },
+        {
+          "date": "2026-09-07",
+          "campaign_id": "C0",
+          "channel": "Search",
+          "spend_usd": 505.08,
+          "new_members": 19,
+          "net_revenue_usd": 2599.2000000000003
+        },
+        {
+          "date": "2026-09-07",
+          "campaign_id": "C1",
+          "channel": "Social",
+          "spend_usd": 428.15,
+          "new_members": 19,
+          "net_revenue_usd": 2599.2000000000003
+        },
+        {
+          "date": "2026-09-07",
+          "campaign_id": "C2",
+          "channel": "Display",
+          "spend_usd": 326.83,
+          "new_members": 10,
+          "net_revenue_usd": 1368.0
+        },
+        {
+          "date": "2026-09-07",
+          "campaign_id": "C3",
+          "channel": "Affiliate",
+          "spend_usd": 601.02,
+          "new_members": 14,
+          "net_revenue_usd": 1915.2000000000003
+        },
+        {
+          "date": "2026-09-08",
+          "campaign_id": "C0",
+          "channel": "Search",
+          "spend_usd": 458.09,
+          "new_members": 14,
+          "net_revenue_usd": 1915.2000000000003
+        },
+        {
+          "date": "2026-09-08",
+          "campaign_id": "C1",
+          "channel": "Social",
+          "spend_usd": 530.62,
+          "new_members": 11,
+          "net_revenue_usd": 1504.8000000000002
+        },
+        {
+          "date": "2026-09-08",
+          "campaign_id": "C2",
+          "channel": "Display",
+          "spend_usd": 333.65,
+          "new_members": 22,
+          "net_revenue_usd": 3009.6000000000004
+        },
+        {
+          "date": "2026-09-08",
+          "campaign_id": "C3",
+          "channel": "Affiliate",
+          "spend_usd": 274.72,
+          "new_members": 21,
+          "net_revenue_usd": 2872.8
+        },
+        {
+          "date": "2026-09-09",
+          "campaign_id": "C0",
+          "channel": "Search",
+          "spend_usd": 474.47,
+          "new_members": 15,
+          "net_revenue_usd": 2052.0
+        },
+        {
+          "date": "2026-09-09",
+          "campaign_id": "C1",
+          "channel": "Social",
+          "spend_usd": 320.05,
+          "new_members": 12,
+          "net_revenue_usd": 1641.6000000000001
+        },
+        {
+          "date": "2026-09-09",
+          "campaign_id": "C2",
+          "channel": "Display",
+          "spend_usd": 547.16,
+          "new_members": 12,
+          "net_revenue_usd": 1641.6000000000001
+        },
+        {
+          "date": "2026-09-09",
+          "campaign_id": "C3",
+          "channel": "Affiliate",
+          "spend_usd": 543.27,
+          "new_members": 16,
+          "net_revenue_usd": 2188.8
+        },
+        {
+          "date": "2026-09-10",
+          "campaign_id": "C0",
+          "channel": "Search",
+          "spend_usd": 388.11,
+          "new_members": 19,
+          "net_revenue_usd": 2599.2000000000003
+        },
+        {
+          "date": "2026-09-10",
+          "campaign_id": "C1",
+          "channel": "Social",
+          "spend_usd": 384.41,
+          "new_members": 10,
+          "net_revenue_usd": 1368.0
+        },
+        {
+          "date": "2026-09-10",
+          "campaign_id": "C2",
+          "channel": "Display",
+          "spend_usd": 418.7,
+          "new_members": 9,
+          "net_revenue_usd": 1231.2
+        },
+        {
+          "date": "2026-09-10",
+          "campaign_id": "C3",
+          "channel": "Affiliate",
+          "spend_usd": 339.2,
+          "new_members": 22,
+          "net_revenue_usd": 3009.6000000000004
+        },
+        {
+          "date": "2026-09-11",
+          "campaign_id": "C0",
+          "channel": "Search",
+          "spend_usd": 328.11,
+          "new_members": 16,
+          "net_revenue_usd": 2188.8
+        },
+        {
+          "date": "2026-09-11",
+          "campaign_id": "C1",
+          "channel": "Social",
+          "spend_usd": 405.59,
+          "new_members": 22,
+          "net_revenue_usd": 3009.6000000000004
+        },
+        {
+          "date": "2026-09-11",
+          "campaign_id": "C2",
+          "channel": "Display",
+          "spend_usd": 572.4,
+          "new_members": 11,
+          "net_revenue_usd": 1504.8000000000002
+        },
+        {
+          "date": "2026-09-11",
+          "campaign_id": "C3",
+          "channel": "Affiliate",
+          "spend_usd": 537.82,
+          "new_members": 13,
+          "net_revenue_usd": 1778.4
+        },
+        {
+          "date": "2026-09-12",
+          "campaign_id": "C0",
+          "channel": "Search",
+          "spend_usd": 290.68,
+          "new_members": 22,
+          "net_revenue_usd": 3009.6000000000004
+        },
+        {
+          "date": "2026-09-12",
+          "campaign_id": "C1",
+          "channel": "Social",
+          "spend_usd": 585.45,
+          "new_members": 17,
+          "net_revenue_usd": 2325.6000000000004
+        },
+        {
+          "date": "2026-09-12",
+          "campaign_id": "C2",
+          "channel": "Display",
+          "spend_usd": 467.68,
+          "new_members": 10,
+          "net_revenue_usd": 1368.0
+        },
+        {
+          "date": "2026-09-12",
+          "campaign_id": "C3",
+          "channel": "Affiliate",
+          "spend_usd": 524.62,
+          "new_members": 12,
+          "net_revenue_usd": 1641.6000000000001
+        },
+        {
+          "date": "2026-09-13",
+          "campaign_id": "C0",
+          "channel": "Search",
+          "spend_usd": 380.03,
+          "new_members": 10,
+          "net_revenue_usd": 1368.0
+        },
+        {
+          "date": "2026-09-13",
+          "campaign_id": "C1",
+          "channel": "Social",
+          "spend_usd": 275.26,
+          "new_members": 21,
+          "net_revenue_usd": 2872.8
+        },
+        {
+          "date": "2026-09-13",
+          "campaign_id": "C2",
+          "channel": "Display",
+          "spend_usd": 501.74,
+          "new_members": 15,
+          "net_revenue_usd": 2052.0
+        },
+        {
+          "date": "2026-09-13",
+          "campaign_id": "C3",
+          "channel": "Affiliate",
+          "spend_usd": 532.28,
+          "new_members": 18,
+          "net_revenue_usd": 2462.4
+        },
+        {
+          "date": "2026-09-14",
+          "campaign_id": "C0",
+          "channel": "Search",
+          "spend_usd": 288.77,
+          "new_members": 22,
+          "net_revenue_usd": 3009.6000000000004
+        },
+        {
+          "date": "2026-09-14",
+          "campaign_id": "C1",
+          "channel": "Social",
+          "spend_usd": 383.81,
+          "new_members": 9,
+          "net_revenue_usd": 1231.2
+        },
+        {
+          "date": "2026-09-14",
+          "campaign_id": "C2",
+          "channel": "Display",
+          "spend_usd": 429.57,
+          "new_members": 21,
+          "net_revenue_usd": 2872.8
+        },
+        {
+          "date": "2026-09-14",
+          "campaign_id": "C3",
+          "channel": "Affiliate",
+          "spend_usd": 557.46,
+          "new_members": 19,
+          "net_revenue_usd": 2599.2000000000003
+        },
+        {
+          "date": "2026-09-15",
+          "campaign_id": "C0",
+          "channel": "Search",
+          "spend_usd": 565.85,
+          "new_members": 20,
+          "net_revenue_usd": 2736.0
+        },
+        {
+          "date": "2026-09-15",
+          "campaign_id": "C1",
+          "channel": "Social",
+          "spend_usd": 334.61,
+          "new_members": 18,
+          "net_revenue_usd": 2462.4
+        },
+        {
+          "date": "2026-09-15",
+          "campaign_id": "C2",
+          "channel": "Display",
+          "spend_usd": 438.49,
+          "new_members": 20,
+          "net_revenue_usd": 2736.0
+        },
+        {
+          "date": "2026-09-15",
+          "campaign_id": "C3",
+          "channel": "Affiliate",
+          "spend_usd": 690.93,
+          "new_members": 18,
+          "net_revenue_usd": 2462.4
+        },
+        {
+          "date": "2026-09-16",
+          "campaign_id": "C0",
+          "channel": "Search",
+          "spend_usd": 309.15,
+          "new_members": 15,
+          "net_revenue_usd": 2052.0
+        },
+        {
+          "date": "2026-09-16",
+          "campaign_id": "C1",
+          "channel": "Social",
+          "spend_usd": 647.51,
+          "new_members": 19,
+          "net_revenue_usd": 2599.2000000000003
+        },
+        {
+          "date": "2026-09-16",
+          "campaign_id": "C2",
+          "channel": "Display",
+          "spend_usd": 315.2,
+          "new_members": 12,
+          "net_revenue_usd": 1641.6000000000001
+        },
+        {
+          "date": "2026-09-16",
+          "campaign_id": "C3",
+          "channel": "Affiliate",
+          "spend_usd": 587.34,
+          "new_members": 12,
+          "net_revenue_usd": 1641.6000000000001
+        },
+        {
+          "date": "2026-09-17",
+          "campaign_id": "C0",
+          "channel": "Search",
+          "spend_usd": 457.8,
+          "new_members": 19,
+          "net_revenue_usd": 2599.2000000000003
+        },
+        {
+          "date": "2026-09-17",
+          "campaign_id": "C1",
+          "channel": "Social",
+          "spend_usd": 440.6,
+          "new_members": 17,
+          "net_revenue_usd": 2325.6000000000004
+        },
+        {
+          "date": "2026-09-17",
+          "campaign_id": "C2",
+          "channel": "Display",
+          "spend_usd": 523.0,
+          "new_members": 10,
+          "net_revenue_usd": 1368.0
+        },
+        {
+          "date": "2026-09-17",
+          "campaign_id": "C3",
+          "channel": "Affiliate",
+          "spend_usd": 668.14,
+          "new_members": 20,
+          "net_revenue_usd": 2736.0
+        },
+        {
+          "date": "2026-09-18",
+          "campaign_id": "C0",
+          "channel": "Search",
+          "spend_usd": 378.83,
+          "new_members": 10,
+          "net_revenue_usd": 1368.0
+        },
+        {
+          "date": "2026-09-18",
+          "campaign_id": "C1",
+          "channel": "Social",
+          "spend_usd": 648.99,
+          "new_members": 19,
+          "net_revenue_usd": 2599.2000000000003
+        },
+        {
+          "date": "2026-09-18",
+          "campaign_id": "C2",
+          "channel": "Display",
+          "spend_usd": 657.06,
+          "new_members": 19,
+          "net_revenue_usd": 2599.2000000000003
+        },
+        {
+          "date": "2026-09-18",
+          "campaign_id": "C3",
+          "channel": "Affiliate",
+          "spend_usd": 517.86,
+          "new_members": 9,
+          "net_revenue_usd": 1231.2
+        },
+        {
+          "date": "2026-09-19",
+          "campaign_id": "C0",
+          "channel": "Search",
+          "spend_usd": 370.44,
+          "new_members": 19,
+          "net_revenue_usd": 2599.2000000000003
+        },
+        {
+          "date": "2026-09-19",
+          "campaign_id": "C1",
+          "channel": "Social",
+          "spend_usd": 519.38,
+          "new_members": 10,
+          "net_revenue_usd": 1368.0
+        },
+        {
+          "date": "2026-09-19",
+          "campaign_id": "C2",
+          "channel": "Display",
+          "spend_usd": 464.94,
+          "new_members": 17,
+          "net_revenue_usd": 2325.6000000000004
+        },
+        {
+          "date": "2026-09-19",
+          "campaign_id": "C3",
+          "channel": "Affiliate",
+          "spend_usd": 360.78,
+          "new_members": 20,
+          "net_revenue_usd": 2736.0
+        },
+        {
+          "date": "2026-09-20",
+          "campaign_id": "C0",
+          "channel": "Search",
+          "spend_usd": 536.47,
+          "new_members": 13,
+          "net_revenue_usd": 1778.4
+        },
+        {
+          "date": "2026-09-20",
+          "campaign_id": "C1",
+          "channel": "Social",
+          "spend_usd": 320.31,
+          "new_members": 8,
+          "net_revenue_usd": 1094.4
+        },
+        {
+          "date": "2026-09-20",
+          "campaign_id": "C2",
+          "channel": "Display",
+          "spend_usd": 308.7,
+          "new_members": 14,
+          "net_revenue_usd": 1915.2000000000003
+        },
+        {
+          "date": "2026-09-20",
+          "campaign_id": "C3",
+          "channel": "Affiliate",
+          "spend_usd": 528.88,
+          "new_members": 9,
+          "net_revenue_usd": 1231.2
+        },
+        {
+          "date": "2026-09-21",
+          "campaign_id": "C0",
+          "channel": "Search",
+          "spend_usd": 455.66,
+          "new_members": 14,
+          "net_revenue_usd": 1915.2000000000003
+        },
+        {
+          "date": "2026-09-21",
+          "campaign_id": "C1",
+          "channel": "Social",
+          "spend_usd": 642.54,
+          "new_members": 20,
+          "net_revenue_usd": 2736.0
+        },
+        {
+          "date": "2026-09-21",
+          "campaign_id": "C2",
+          "channel": "Display",
+          "spend_usd": 319.04,
+          "new_members": 10,
+          "net_revenue_usd": 1368.0
+        },
+        {
+          "date": "2026-09-21",
+          "campaign_id": "C3",
+          "channel": "Affiliate",
+          "spend_usd": 624.84,
+          "new_members": 9,
+          "net_revenue_usd": 1231.2
+        },
+        {
+          "date": "2026-09-22",
+          "campaign_id": "C0",
+          "channel": "Search",
+          "spend_usd": 550.87,
+          "new_members": 9,
+          "net_revenue_usd": 1231.2
+        },
+        {
+          "date": "2026-09-22",
+          "campaign_id": "C1",
+          "channel": "Social",
+          "spend_usd": 552.75,
+          "new_members": 22,
+          "net_revenue_usd": 3009.6000000000004
+        },
+        {
+          "date": "2026-09-22",
+          "campaign_id": "C2",
+          "channel": "Display",
+          "spend_usd": 427.71,
+          "new_members": 17,
+          "net_revenue_usd": 2325.6000000000004
+        },
+        {
+          "date": "2026-09-22",
+          "campaign_id": "C3",
+          "channel": "Affiliate",
+          "spend_usd": 378.17,
+          "new_members": 13,
+          "net_revenue_usd": 1778.4
+        },
+        {
+          "date": "2026-09-23",
+          "campaign_id": "C0",
+          "channel": "Search",
+          "spend_usd": 417.37,
+          "new_members": 16,
+          "net_revenue_usd": 2188.8
+        },
+        {
+          "date": "2026-09-23",
+          "campaign_id": "C1",
+          "channel": "Social",
+          "spend_usd": 372.05,
+          "new_members": 13,
+          "net_revenue_usd": 1778.4
+        },
+        {
+          "date": "2026-09-23",
+          "campaign_id": "C2",
+          "channel": "Display",
+          "spend_usd": 649.05,
+          "new_members": 9,
+          "net_revenue_usd": 1231.2
+        },
+        {
+          "date": "2026-09-23",
+          "campaign_id": "C3",
+          "channel": "Affiliate",
+          "spend_usd": 332.23,
+          "new_members": 21,
+          "net_revenue_usd": 2872.8
+        },
+        {
+          "date": "2026-09-24",
+          "campaign_id": "C0",
+          "channel": "Search",
+          "spend_usd": 495.41,
+          "new_members": 15,
+          "net_revenue_usd": 2052.0
+        },
+        {
+          "date": "2026-09-24",
+          "campaign_id": "C1",
+          "channel": "Social",
+          "spend_usd": 492.82,
+          "new_members": 21,
+          "net_revenue_usd": 2872.8
+        },
+        {
+          "date": "2026-09-24",
+          "campaign_id": "C2",
+          "channel": "Display",
+          "spend_usd": 357.35,
+          "new_members": 9,
+          "net_revenue_usd": 1231.2
+        },
+        {
+          "date": "2026-09-24",
+          "campaign_id": "C3",
+          "channel": "Affiliate",
+          "spend_usd": 576.91,
+          "new_members": 15,
+          "net_revenue_usd": 2052.0
+        },
+        {
+          "date": "2026-09-25",
+          "campaign_id": "C0",
+          "channel": "Search",
+          "spend_usd": 263.02,
+          "new_members": 8,
+          "net_revenue_usd": 1094.4
+        },
+        {
+          "date": "2026-09-25",
+          "campaign_id": "C1",
+          "channel": "Social",
+          "spend_usd": 560.18,
+          "new_members": 20,
+          "net_revenue_usd": 2736.0
+        },
+        {
+          "date": "2026-09-25",
+          "campaign_id": "C2",
+          "channel": "Display",
+          "spend_usd": 634.62,
+          "new_members": 14,
+          "net_revenue_usd": 1915.2000000000003
+        },
+        {
+          "date": "2026-09-25",
+          "campaign_id": "C3",
+          "channel": "Affiliate",
+          "spend_usd": 455.61,
+          "new_members": 8,
+          "net_revenue_usd": 1094.4
+        },
+        {
+          "date": "2026-09-26",
+          "campaign_id": "C0",
+          "channel": "Search",
+          "spend_usd": 473.07,
+          "new_members": 12,
+          "net_revenue_usd": 1641.6000000000001
+        },
+        {
+          "date": "2026-09-26",
+          "campaign_id": "C1",
+          "channel": "Social",
+          "spend_usd": 465.5,
+          "new_members": 14,
+          "net_revenue_usd": 1915.2000000000003
+        },
+        {
+          "date": "2026-09-26",
+          "campaign_id": "C2",
+          "channel": "Display",
+          "spend_usd": 453.48,
+          "new_members": 16,
+          "net_revenue_usd": 2188.8
+        },
+        {
+          "date": "2026-09-26",
+          "campaign_id": "C3",
+          "channel": "Affiliate",
+          "spend_usd": 335.29,
+          "new_members": 22,
+          "net_revenue_usd": 3009.6000000000004
+        },
+        {
+          "date": "2026-09-27",
+          "campaign_id": "C0",
+          "channel": "Search",
+          "spend_usd": 571.68,
+          "new_members": 22,
+          "net_revenue_usd": 3009.6000000000004
+        },
+        {
+          "date": "2026-09-27",
+          "campaign_id": "C1",
+          "channel": "Social",
+          "spend_usd": 420.07,
+          "new_members": 22,
+          "net_revenue_usd": 3009.6000000000004
+        },
+        {
+          "date": "2026-09-27",
+          "campaign_id": "C2",
+          "channel": "Display",
+          "spend_usd": 293.11,
+          "new_members": 8,
+          "net_revenue_usd": 1094.4
+        },
+        {
+          "date": "2026-09-27",
+          "campaign_id": "C3",
+          "channel": "Affiliate",
+          "spend_usd": 545.25,
+          "new_members": 13,
+          "net_revenue_usd": 1778.4
+        },
+        {
+          "date": "2026-09-28",
+          "campaign_id": "C0",
+          "channel": "Search",
+          "spend_usd": 429.87,
+          "new_members": 15,
+          "net_revenue_usd": 2052.0
+        },
+        {
+          "date": "2026-09-28",
+          "campaign_id": "C1",
+          "channel": "Social",
+          "spend_usd": 270.15,
+          "new_members": 14,
+          "net_revenue_usd": 1915.2000000000003
+        },
+        {
+          "date": "2026-09-28",
+          "campaign_id": "C2",
+          "channel": "Display",
+          "spend_usd": 269.87,
+          "new_members": 9,
+          "net_revenue_usd": 1231.2
+        },
+        {
+          "date": "2026-09-28",
+          "campaign_id": "C3",
+          "channel": "Affiliate",
+          "spend_usd": 647.31,
+          "new_members": 15,
+          "net_revenue_usd": 2052.0
+        }
+      ],
+      "category": "date",
+      "value": "spend_usd",
+      "unit": ""
+    }
+  ],
+  "findings": [
+    "Joining raw member events directly to daily spend would inflate spend by 15.3\u00d7. Aggregate facts to date/campaign grain before joining.",
+    "Deduplicate 12 replayed ingestions, exclude one invalid revenue record, and quarantine one unmapped acquisition. Report warnings visibly rather than silently losing records.",
+    "The clean mart reconciles to source spend and eligible distinct members. Release with disclosed warnings; route unmapped campaigns to Marketing Operations and invalid amounts to the source owner.",
+    "Freshness is evaluated against the fixed simulation as-of date 2026-09-29. The recurring run must use a production as-of parameter and an agreed ingestion SLA."
+  ],
+  "caveat": "Synthetic ingestion exercise. One row per member represents one acquisition; this is not a full order ledger. Raw inputs deliberately include known defects. WARN checks overlap and must not be summed as distinct incidents. Nonnegative net receipts are required by this acquisition contract; refund transactions need a separate ledger. Media spend is USD and timestamps are UTC. The final week is partial, so do not compare unadjusted weekly totals. No live platform connector or scheduled production job is deployed."
+}

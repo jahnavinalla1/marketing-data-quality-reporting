@@ -1,6 +1,6 @@
 # Trusted Marketing Data & Reporting
 
-Independent, AI-assisted marketing analytics project using **synthetic data** for a fictional fitness subscription business. No WHOOP affiliation or real campaign results are implied.
+Independent, AI-assisted marketing analytics project using **synthetic data** for a fictional fitness subscription business. Findings are simulated and do not represent real campaign results.
 
 ![Results preview](outputs/preview.svg)
 
@@ -48,11 +48,11 @@ Open `outputs/dashboard.html` in your browser. Generated data CSVs and the SQLit
 
 The HTML report is the working dashboard. The repository does **not** claim a deployed Looker or Tableau dashboard. LookML is for Looker, not Looker Studio.
 
-## Skill evidence
+## Methods and tools
 
-SQL, marketing measurement, visualization, analytical problem solving, explicit assumptions, business recommendations, and quality-checked AI assistance. The project supports review of relevant project experience; it does not establish degrees, years of professional work, prior stakeholder collaboration, or relocation availability.
+SQL, marketing measurement, visualization, analytical problem solving, explicit assumptions, business recommendations, and quality-checked AI assistance.
 
-Read [data contracts](DATA-DICTIONARY.md), [AI assistance](AI-ASSISTANCE.md), and [review questions](REVIEW-GUIDE.md). Rerun the analysis and explain it independently before claiming proficiency. [WHOOP's role](https://jobs.ashbyhq.com/whoop/e9c9fa1f-4711-4fa0-876a-eb9787ab77cf) inspired the skill coverage (reviewed October 1, 2026).
+Read [data contracts](DATA-DICTIONARY.md), [AI assistance](AI-ASSISTANCE.md), and [review questions](REVIEW-GUIDE.md).
 
 ## Related independent repositories
 

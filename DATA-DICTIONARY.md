@@ -1,6 +1,6 @@
 # Data contracts and metric definitions
 
-All records are synthetic. Seeds 41, 52, 63, and 74 regenerate the four respective datasets. No personal data, WHOOP data, scraped ad accounts, or API credentials are used.
+All records are synthetic. Seeds 41, 52, 63, and 74 regenerate the four respective datasets. No personal data, proprietary company data, scraped ad accounts, or API credentials are used.
 
 ## Project 04 — reporting reliability
 

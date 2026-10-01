@@ -1,6 +1,6 @@
-# Walkthrough and interview preparation
+# Analysis walkthrough and review
 
-For each project, explain the business question, table grain, calculation, decision, and limitation. Use the phrase “independent project using synthetic data.” Do not claim modeled gains as results delivered for an employer.
+Review the business question, table grain, calculation, decision, and limitation. All findings are based on synthetic data, and modeled gains are hypothetical.
 
 ## 04 — reporting
 
@@ -22,4 +22,4 @@ This is a proposed workflow, not a claim that these meetings occurred.
 
 | Date | Reviewer / self-review | Question or correction | Change | Verification |
 |---|---|---|---|---|
-| Pending | Applicant | Rerun and review all four studies | Pending | Pending |
+| Pending | Project author | Rerun and review all four studies | Pending | Pending |
